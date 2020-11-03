@@ -23,6 +23,7 @@
     color: #fff;
     font-family: "McLaren", cursive;
     font-weight: 200;
+    float: left;
   }
   
   footer {
@@ -122,4 +123,8 @@ li a{
 img{
   height: 100%;
   width:  100%;
+}
+header img{
+  height: 100px;
+  width:  100px;
 }
