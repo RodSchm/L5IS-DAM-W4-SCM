@@ -5,7 +5,7 @@ function Header() {
   return (
     <header>
       <h1>
-        Larvin
+        Larvin Megastore
       </h1>
     </header>
   );
